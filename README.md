@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 
-**SakshiJ11/SakshiJ11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Machine Learning and C++
 - 🌱 I’m currently learning GenAI
 - 👯 I’m looking for an Internship opportunity prerably in 2024 Winters (November/December)
