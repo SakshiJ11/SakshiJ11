@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Machine Learning and C++
 - 🌱 I’m currently learning GenAI
-- 👯 I’m looking for an Internship opportunity prerably in 2025 Spring
+- 👯 I’m looking for an Internship opportunity preferably in 2025 Spring
 - 🤔 I’m looking to collaborate on anything that includes C++/Machine Learning 
 - 💬 Ask me about DSA/CP
 - 💌 I like reading, anything from Murakami to Paul Graham essays
